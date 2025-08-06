@@ -43,4 +43,6 @@ conjunto de acotres y factores que en su interconexión y dinámica pueden aumen
 
 ### instituciones de apoyo
 
+mentores, inversionistas, empresas, universidades, redes, políticas públicas, etc.
+
 ofrecen conocimientos, capacidades e infraestructura que agrega valor a los negocios y deberían existir en cada etapa del camino del emprendedor.
