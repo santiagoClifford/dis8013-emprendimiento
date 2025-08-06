@@ -46,3 +46,26 @@ conjunto de acotres y factores que en su interconexión y dinámica pueden aumen
 mentores, inversionistas, empresas, universidades, redes, políticas públicas, etc.
 
 ofrecen conocimientos, capacidades e infraestructura que agrega valor a los negocios y deberían existir en cada etapa del camino del emprendedor.
+
+## fondos de funanciamiento
+
+¿cuántos fondos disponibles para pymes concursables en Chile?
+
+[Página gubernamental de fondos](https://fondos.gob.cl)
+
+¿webinars cursos y talleres online gratis disponibles?
+
+- [Pymes en línea:](https://pymesenlinea.cl) Proyecto de cursos onlie gratis impulsado por CORFO, enfocado en lo digital.
+
+- [Emprendedoras conectadas:](https://emprendedorasconectadas.cl) Red de apoyo para mujeres emprendedoras
+
+En Chile, son las mujeres quienes en mayor medida están liderando pymes.
+
+El emprendimiento en Chile es una opción de carrera válida y deseable. Cuenta con una red de apoyo importante para lograr efectivamente emprender.
+
+
+Oportunidades de mejora respecto al apoyo estatal a pymes en Chile:
+
+- Educación financiera y emprendedora
+- Apoyo estatal
+- Políticas públicas
