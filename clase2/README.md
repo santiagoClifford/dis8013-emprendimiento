@@ -45,7 +45,7 @@ abarca fuerzas externas amplias e incontrolables, como factores políticos, econ
 
 ejemplo: Guerra, funas, políticas públicas, factores medioambientales, tecnológicos, etc.
 
-EPSTEL: Political, Economical, Social, Technological, Enviromental, Legal.
+PESTEL: Political, Economical, Social, Technological, Enviromental, Legal.
 
 ##### impacto directo del microentorno
 
@@ -84,3 +84,39 @@ competencia directa: tiene incidencia diracta en el exito de mi negocio
 - estrategias de competidores: estudiar las estrategias de los competidores ayuda a identificar oportunidades para mejorar la posicion en el mercado
 
 - posicionamiento y diferenciación: clave para destacar en el mercado y atraer clientes
+
+### Intermedieros, distribuidores, minorista y agentes
+
+rol de lo intermediarios: facilitan la conexion entre productores y consumidores
+
+### stakeholders internos: empleados, socios y directivos
+
+- empleados: base operativa que sostiene la cultura y productividad de la organización
+
+- socios: aportan recursos y apoyo estratégico clave para el crecimiento empresarial
+
+- directivos: guían la visión y toman desiciones que afectan el éxito organizacional
+
+## macroentorno
+
+diferencia principales:
+
+acance amplio:  abarca factores externos que afectan a multiples industrias a la vez
+
+menor control empresarial: impredecible y desafiente
+
+necesidad de análisis estratégico: analizar el macroentorno es esencial para anticipar cambios y adaptarse
+
+### influencia macroentorno en la industria y país
+
+contexto económico define condiciones ifnancieras que afectan a las industrias y el desarrollo nacional
+
+conexto legal: leyes y regulaciones que influyen en la operacion de negcios
+
+### factores principales macroentorno:
+
+#### socioculturales: tendencias de consumo y valores sociales
+
+#### tecnológicos, políticos legales y ecológicos
+
+
