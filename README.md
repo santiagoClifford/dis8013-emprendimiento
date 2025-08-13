@@ -34,3 +34,5 @@ A lo largo del semestre trabajaremos en equipo junto a emprendimientos emergente
 - [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking)
 
 - [Proyect Based Learning (PBL)](https://www.pblworks.org/what-is-pbl)
+
+-[Feria de emrendedores "en boga"](https://www.casacostanera.cl/noticias/feria-al-cateo)
