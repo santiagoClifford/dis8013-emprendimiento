@@ -25,8 +25,6 @@ proceso a seguir con la pyme
 
 1. Análisis de micro y macro entorno: saber los factores clave que afectan a operaciones empresariales actuales.
 
-
-
 macro entorno: faftores más amplios, sobre los cuales la empresa no tiene ninguna incidencia directa.
 
 #### Micro entorno:
@@ -119,4 +117,14 @@ conexto legal: leyes y regulaciones que influyen en la operacion de negcios
 
 #### tecnológicos, políticos legales y ecológicos
 
+## Grupo 6
 
+empresa: Calibra Gestores
+
+integrantes:
+
+- stgo
+- jota-
+- jose Quape
+- francisco
+- arenas
