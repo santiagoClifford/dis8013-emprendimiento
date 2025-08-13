@@ -117,14 +117,59 @@ conexto legal: leyes y regulaciones que influyen en la operacion de negcios
 
 #### tecnológicos, políticos legales y ecológicos
 
-## Grupo 6
+## calibra Gestores
 
 empresa: Calibra Gestores
 
 integrantes:
 
-- stgo
-- jota-
-- jose Quape
-- francisco
-- arenas
+- stgo gaete
+- jota morales romulus
+- josefa quape
+- francisco stephens
+- matías arenas
+
+### empresa
+
+"Somos un grupo de profesionales de diversas disciplinas con un enfoque sociocultural, dedicados a promover la gobernanza y la cohesión territorial, para potenciar los sectores rurales y urbanos a partir de la construcción compartida de espacios de diálogo, fortaleciendo el capital social, generando y facilitando la información a todos los actores de la sociedad para un mayor entendimiento del contexto social."
+
+Servicios ofrecidos:
+
+- investigación social
+
+- espacios de comunicación, diálogo multiactor y encuentro
+
+- diseño de implemenetación de estraetegias de planificación
+
+- fortalecimiento del capital social
+
+El servicio se vincula con las siguientes temáticas: 
+
+- identidad cultura y patrimonio
+
+- territorios bioculturales
+
+- agricultura familiar y campesina
+
+- desarrollo rural
+
+- desarrollo local
+
+- turismo sostenible
+
+- género
+
+- economía creativa
+
+- participación ciudadana
+
+- planificación territorial
+
+- urbanismo social
+
+- asociatividad y cooperativismo
+
+
+consutloria: entregable final
+
+asesoría: es un acmompañamiento en el día a día
