@@ -196,3 +196,12 @@ El servicio se vincula con las siguientes temáticas:
 consutloria: entregable final
 
 asesoría: es un acmompañamiento en el día a día
+
+## encargo
+
+investigar el macro entorno y el micro entorno de la empresa.
+
+hecho en [figma](https://www.figma.com/board/SkcuHKYI5s3csLcWWhVaDw/macro-micro-entorno?node-id=0-1&p=f&t=m3VllwY0XJBpxWAv-0)
+
+![diagram de micro y macro entorno](./imagenes/macro-micro-entorno.png)
+
