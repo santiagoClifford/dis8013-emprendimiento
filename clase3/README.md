@@ -27,29 +27,11 @@ preguntas que debemos respondernos,
 - ¿qué segmentos son prioritarios?
 - ¿qué necesitan estos clientes?
 
-### propuesta de valor:
-
-aquello que diferencia a la empresa de otras empresas similares. O aquello que agrega valor a la empresa.
-
-### relación con los clientes:
-
-cómo la empresa trata y se dirige hacia sus clientes. ¿cómo le comunico lo que estoy haciendo?
-
-### canales de comunicación y distribución:
-
-definir canales: páginas web, mercado libre, rrss, counicación directa, starken, etc.
-
-### flujos de ingreso:
-
-¿por qué me van a pagar mis clientes? un negocio puede tener múltiples flujos de ingreso.
-
-usuario vs cliente: ejemplo, para los jueguetes, el usuario es el niñx, y el cliente es la mamá o quien se lo compró.
-
-## mapa de empatía
+#### mapa de empatía
 
 herramienta visual que permite a la empresa, describir, diseñar, analizar y adapatar sus modelos de negocio.
 
-busca entender a su usuario
+busca entender a su usuario. Se usa para definir el segmento de clientes
 
 ![mapa de empatía](./imagenes/mapa-empatia.png)
 
@@ -60,3 +42,72 @@ se puede incluir: cómo se viste, qué le gusta, con qué tipo de empresa le gus
 ¿qué oye en su entorno respecto a la empresa?
 
 ![mapa de empatía 2](./imagenes/mapa-de-empatia2.jpg)
+
+
+### propuesta de valor:
+
+aquello que diferencia a la empresa de otras empresas similares. O aquello que agrega valor a la empresa.
+
+objetivo: definir el valor creado para vcada segmento de clientes, describiendo los productos y servicios que se aofrecen a cada uno
+
+preguntas guía: 
+- ¿qué valor entrega el emprendimiento a su clientes?
+- ¿qué aporta esta empresa a sus clientes?
+- ¿qué problema de sus clientes está resolviendo?
+- ¿qué necesidades de sus clientes está satisfaciendo?
+- ¿qué beneficios le está aportando?
+- ¿qué paquetes de productos y serivcios le ofrece a - cada segmento de clientes?
+
+¿qué tienen en común rolex, dios y rolex?
+
+venden status, son exclusivas, y tienen cierto poder sobre los medios.
+
+algunos clientes pueden encontrar valor en el hecho de utilizar/mostrar una marca. El valor de la marca puede ser parte de la propuesta de valor.
+
+### relación con los clientes:
+
+cómo la empresa trata y se dirige hacia sus clientes. ¿cómo le comunico lo que estoy haciendo?
+
+describe los tipos de relaciones que la empresa establece con los segmentos de clientes. Las relaciones pueden variar desde nivel personal hasta automatizado. Las relaciones con el cliente pueden ser motivadas por las siguientes motivaciones:
+
+- la adquisición de clientes
+- la retención de clientes
+- aumento de las ventas
+
+preguntas clave:
+
+- ¿qué tipo de relación esperan los clientes de la empresa que establezca y mantenga con ellos?
+- ¿cómo es la relacion q ha establecido la marca hasta ahora?
+- ¿la relacion es emocional o mas bien funcional?
+- ¿cuál es el "tono" de la relación?
+
+### canales de comunicación y distribución:
+
+definir canales: páginas web, mercado libre, rrss, counicación directa, starken, etc.
+
+describen la manera en la q la compañía se comunica con los segmentos de clientes, y la forma en la que entrega la propuesta de valor. Busca definir las interfaces principales entre la empresa y los clientes(comunicación distribución, ventas)
+
+preguntas clase
+
+- ¿a través de qué canales la empresa llega a sus clientes?
+- ¿a través de qupe canales entrega su propuesta de valor?
+- ¿hay algún otro canal que podría seer mejor para alacanzar a los diferentes segmentos de clientes, segpun las características de cada segmento.
+- ¿cóomo están integradls los canales de la empresa?
+- ¿cuáles funciona mejor?
+
+### flujos de ingreso:
+
+¿por qué me van a pagar mis clientes? un negocio puede tener múltiples flujos de ingreso.
+
+refiere a los sevicios, productos u otras acciones que le permiten a la empresa generar ingresos.
+
+preguntas clase
+
+- ¿por qué valor los clientes están dispuestos  a pagar hoy?
+- ¿actualmente por qué productos /servicios están pagando?
+- ¿cómo se pagan esos productos/servicios?
+- ¿cuánto aporta cada fuente de ingreso a los ingresos totales?
+- ¿cual es la principal fuente de igreso?
+- ¿qué productos tienen un rol más estratégico(y no de plata)?
+
+usuario vs cliente: ejemplo, para los jueguetes, el usuario es el niñx, y el cliente es la mamá o quien se lo compró.
