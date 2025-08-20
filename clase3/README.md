@@ -43,7 +43,6 @@ se puede incluir: cómo se viste, qué le gusta, con qué tipo de empresa le gus
 
 ![mapa de empatía 2](./imagenes/mapa-de-empatia2.jpg)
 
-
 ### propuesta de valor:
 
 aquello que diferencia a la empresa de otras empresas similares. O aquello que agrega valor a la empresa.
@@ -101,7 +100,7 @@ preguntas clase
 
 refiere a los sevicios, productos u otras acciones que le permiten a la empresa generar ingresos.
 
-preguntas clase
+preguntas clave
 
 - ¿por qué valor los clientes están dispuestos  a pagar hoy?
 - ¿actualmente por qué productos /servicios están pagando?
@@ -111,3 +110,83 @@ preguntas clase
 - ¿qué productos tienen un rol más estratégico(y no de plata)?
 
 usuario vs cliente: ejemplo, para los jueguetes, el usuario es el niñx, y el cliente es la mamá o quien se lo compró.
+
+
+## Calibra Gestores
+
+no solamente hacen el feedback, también diseñan y planifican la instalación. Ayuda a generar conexiones.
+
+### segmento de clientes
+
+- ¿dirijirnos al público general o segmentar?
+segmentar
+- ¿quiénes son los clientes de la empresa, a quién se dirige?
+a otras instituciones públicas y privadas
+- ¿qué segmentos podemos identificar?
+empresas del sector público, empresas del sector rural, empresas privadas. empresas que recolección de datos. fundaciones sin fines de lucro, ong ,etc
+- ¿qué segmentos son prioritarios?
+entidades públicas
+- ¿qué necesitan estos clientes?
+feedback, opiniones de la gente
+
+### propuesta de valor
+
+- ¿qué valor entrega el emprendimiento a su clientes?
+entender la viabilidad/opinion popular antes un pryecto antes de que este sea implementado.
+- ¿qué aporta esta empresa a sus clientes?
+las opiniones de la gente, y mayor seguridad de que va a funcioanr el proyecto
+- ¿qué problema de sus clientes está resolviendo?
+falta de contactos o socios estratégicos
+- ¿qué necesidades de sus clientes está satisfaciendo?
+falta de eficiencia. (sin ellxs, aumenta la posibilidad de que un proyecto q no es realmente útil para su público)
+- ¿qué beneficios le está aportando?
+asegurarse de tener a la ciudadanía involucrada. Y por lo tanto, estar de acuerdo.
+- ¿qué paquetes de productos y servicios le ofrece a cada segmento de clientes?
+no solamente hacen el feedback, también diseñan y planifican la instalación. Ayuda a generar conexiones.
+
+### relación con los clientes
+
+- ¿qué tipo de relación esperan los clientes de la empresa que establezca y mantenga con ellxs?
+relación a largo plazo con servicio postventa. Formal pero cercana. Generar lazos de confianza.
+- ¿cómo es la relacion q ha establecido la marca hasta ahora?
+de confianza, lazos interpersonales. Dado que hay alta competencia, tienen q hacer la pega bien para que los vuelvan a llamar.
+- ¿la relacion es emocional o más bien funcional?
+con el quien los contrata es una relación funcional, y con la gente, emocional.
+- ¿cuál es el "tono" de la relación?
+tono profesional, cercano, de confianza.
+
+
+### canales de comunicación y distribución:
+
+- ¿a través de qué canales la empresa llega a sus clientes?
+email, linkedin, rrss, boca a boca.
+- ¿a través de qué canales entrega su propuesta de valor?
+sitio web, instagram.
+- ¿hay algún otro canal que podría ser mejor para alcanzar a los diferentes segmentos de clientes, según las características de cada segmento?
+dado que tienen claro sus clientes potenciales, pueden ir directamente a conversar con ellxs.
+- ¿cómo están integrados los canales de la empresa?
+contización dirceta desde el sitio web. En la página hay derivaciones a redes sociales, email y número telefónico
+- ¿cuáles funciona mejor?
+nose
+
+### flujos de ingreso:
+
+- ¿por qué valor los clientes están dispuestos  a pagar hoy?
+la opinión de la gente
+- ¿actualmente por qué productos /servicios están pagando?
+crear espacios de comunicación y gestionar la información rescatada 
+- ¿cómo se pagan esos productos/servicios?
+por hora
+- ¿cuánto aporta cada fuente de ingreso a los ingresos totales?
+servicios:
+1. investigación social
+2. espacios de comunicación, diálogos multiactor y encuentro
+3. diseño e implementación de estrategias de planificación
+4. fortalecimiento del capital social.
+
+- ¿cual es la principal fuente de ingreso?
+
+estimamos que de ellos, la mayor fuente de ingresos es la investigación social. Contrataciones por parte del sector público
+- ¿qué productos tienen un rol más estratégico(y no de plata)?
+
+fortalecimiento del capital social: talleres educativos con comunidades.
