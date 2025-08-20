@@ -121,6 +121,8 @@ conexto legal: leyes y regulaciones que influyen en la operacion de negcios
 
 empresa: Calibra Gestores
 
+[DOCUMENTACIÓN FIGMA](https://www.figma.com/board/SkcuHKYI5s3csLcWWhVaDw/macro-micro-entorno?node-id=0-1&t=MeGat4Ktqz5kUuHn-1)
+
 integrantes:
 
 - stgo gaete
