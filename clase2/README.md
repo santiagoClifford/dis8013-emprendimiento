@@ -99,7 +99,7 @@ rol de lo intermediarios: facilitan la conexion entre productores y consumidores
 
 diferencia principales:
 
-acance amplio:  abarca factores externos que afectan a multiples industrias a la vez
+lcance amplio:  abarca factores externos que afectan a multiples industrias a la vez
 
 menor control empresarial: impredecible y desafiente
 
@@ -113,9 +113,30 @@ conexto legal: leyes y regulaciones que influyen en la operacion de negcios
 
 ### factores principales macroentorno:
 
+#### económicos: inflación, tasas de interés y poder adquisitivo
+
+- Inflación y costo de capital
+
+- Tasas de interés y financiamiento
+
+- Poder adquisitivo y demanda
+
+
 #### socioculturales: tendencias de consumo y valores sociales
 
+- Influencia social en consumo
+
+- Aceptación de productos
+
+- Estrategias comerciales adaptadas
+
 #### tecnológicos, políticos legales y ecológicos
+
+- Avance tecnológico
+
+ Regulaciones políticas y legales
+
+- Preocupaciones ecológicas
 
 ## calibra Gestores
 
