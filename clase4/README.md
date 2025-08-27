@@ -79,3 +79,9 @@ estos costos son fáciles de calcular, una vez definidos los recursos clave, las
 - ¿cuáles son sus costos fijos claves(los que se paga siempre)?
 - ¿cuáes son sus costos variables claves(los que depende de cuánto produce o vende, como materias primas o comisiones)?
 - ¿qué gastos son necesarios para seguir creciendo(ej: publicidad, innovación, nuevas tecnologías)?
+
+ejemplo: uber
+
+-costo fijo: sueldo de equipo de soprte
+
+- costo variable: comisiones de los conductores/shoppers
