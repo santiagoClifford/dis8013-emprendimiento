@@ -187,3 +187,30 @@ se utiliza generalmente en presentaciones de negocios, ventas, búsqueda de inve
 - destacar la propuesta de valor
 - narrativa convincente
 - anticipa y responde a preguntas y objeciones
+
+
+## relato solemne01 v1
+
+1. presentar un caso de una empresa, que haya tenido complicaciones al momento de efectuar su proyecto. Las cuales podrían haber sido evitado de haber contratado los srvicios de Calibra Gestores
+
+## relato solemne01 v2
+
+1. dos personas conversan sobre sus proyectos personales. Uno de ellos tuvo un mal desenlace. El otro tuvo un buen desenlace. Se enfatiza que calibra gestores permitió que tenga un buen desenlace.
+el psnje pregunta ¿oye pero ellxs con quiénes trabajan?
+**canales de comunicación y distribución**
+**segmento de clientes**
+
+2. el dueño del proyecto fallido llama a calibra gestores.
+- "hola, en el pasado trabajé con una consultora de mi primillo manolo, y no logré percibir el verdadero aporte de la consultora.
+
+- hola buenos días, lamento tu experiencia. Yo creo q tendras una mejor experiencia con nosotros. Ya que a diferencia de otras consultoras, (...)
+ tbn le hace preguntas para saber si entra dentro de su segmento de clientes
+ **propuesta de valor**
+**relación con los clientes**
+
+
+3. - me complica que mi anterior experiencia trabajando con consultoras, me ayudaron poco y me dejaron solo en el proceso.
+- buenos nosotros ofrecemos diferentes servicios, tu puedes contratar la asesoría, per también ofrecemos acompañamiento durante el proceso y instalación del proyecto. Además si trabajas con equipos grandes ofrecemos tallers,etc.
+**fuentes de ingresos**
+
+4. - 
