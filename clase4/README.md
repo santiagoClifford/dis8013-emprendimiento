@@ -182,3 +182,8 @@ se utiliza generalmente en presentaciones de negocios, ventas, búsqueda de inve
 - recursos visuales
 - sé apasionado y seguro
 - mantenerse en el tiempo establecido
+
+#### muy importante
+- destacar la propuesta de valor
+- narrativa convincente
+- anticipa y responde a preguntas y objeciones
