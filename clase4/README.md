@@ -212,5 +212,3 @@ el psnje pregunta ¿oye pero ellxs con quiénes trabajan?
 3. - me complica que mi anterior experiencia trabajando con consultoras, me ayudaron poco y me dejaron solo en el proceso.
 - buenos nosotros ofrecemos diferentes servicios, tu puedes contratar la asesoría, per también ofrecemos acompañamiento durante el proceso y instalación del proyecto. Además si trabajas con equipos grandes ofrecemos tallers,etc.
 **fuentes de ingresos**
-
-4. - 
