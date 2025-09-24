@@ -50,5 +50,5 @@ identificación de posibles problemas.
 - dependencia en proyectos de corto plazo
 
 - falta de delegación(trabajar muchos proyectos a la vez)
- 
+
 estas dos cosas van conectadas, puesto que, si pasan meses sin recibir poryectos, luego estarán "obligados" a tomar 10 proyectos de una si tienen la oportunidad.
