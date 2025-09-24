@@ -111,7 +111,6 @@ preguntas clave
 
 usuario vs cliente: ejemplo, para los jueguetes, el usuario es el niñx, y el cliente es la mamá o quien se lo compró.
 
-
 ## Calibra Gestores
 
 no solamente hacen el feedback, también diseñan y planifican la instalación. Ayuda a generar conexiones.
@@ -165,7 +164,7 @@ sitio web, instagram.
 - ¿hay algún otro canal que podría ser mejor para alcanzar a los diferentes segmentos de clientes, según las características de cada segmento?
 dado que tienen claro sus clientes potenciales, pueden ir directamente a conversar con ellxs.
 - ¿cómo están integrados los canales de la empresa?
-contización dirceta desde el sitio web. En la página hay derivaciones a redes sociales, email y número telefónico
+contización directa desde el sitio web. En la página hay derivaciones a redes sociales, email y número telefónico
 - ¿cuáles funciona mejor?
 nose
 
