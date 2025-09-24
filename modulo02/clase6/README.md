@@ -15,3 +15,18 @@ de ese porcentaje, el 50% falla debido a su modelo de negocios, el 30% debido a 
 ### design thinking
 
 design thinking es la intersección de las necesidades de las personas, su viabilidad técnica, y su viabilidad como negocio.
+
+#### IFR
+
+criterios que nos permiten decidir si un problema u oportunidad merece la pena ser resuelto.
+
+**I. Impacto**
+¿cuál es la magnitud del problema?
+¿cuántas personas lo tienen?
+
+**F. Frecuencia**
+¿con qué frecuencia sucede el problema?
+
+**R. Relevancia** 
+¿qué tanto le importa este problema a la empresa?
+¿estarían dispuestos a pagar para solucionarlo?
