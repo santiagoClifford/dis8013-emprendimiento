@@ -27,6 +27,28 @@ criterios que nos permiten decidir si un problema u oportunidad merece la pena s
 **F. Frecuencia**
 ¿con qué frecuencia sucede el problema?
 
-**R. Relevancia** 
+**R. Relevancia**
 ¿qué tanto le importa este problema a la empresa?
 ¿estarían dispuestos a pagar para solucionarlo?
+
+## trabajo en grupo azotea
+
+identificación de posibles problemas.
+
+- por lo que se ve en rrss casi el total de los trabajadores de calibra son de un rango etario superior a 40 años.
+
+- falta de automatización de procesos
+
+- reforzar la confidencialidad
+
+- darse a conocer sus procesos, fines y gestiones
+
+- adaptabilidad al contexto local y falta de alineamiento con actores públicos
+
+### plazo y consistencia en el tiempo
+
+- dependencia en proyectos de corto plazo
+
+- falta de delegación(trabajar muchos proyectos a la vez)
+ 
+estas dos cosas van conectadas, puesto que, si pasan meses sin recibir poryectos, luego estarán "obligados" a tomar 10 proyectos de una si tienen la oportunidad.
