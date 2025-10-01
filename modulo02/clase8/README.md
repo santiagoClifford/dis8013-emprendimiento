@@ -47,24 +47,21 @@ grupo etario elegido: abuelos con sus nietos
 
 - idea00
 crear rutas alternativas que vayan por dentro/arriba de los hábitat. Hay una zona de obeservación con mesas y sillas.
-
 Adultos mayores pueden sentarse a descansar, kientras tienen a la vista a sus nietxs.
-
 [referente](https://huilohuilo.com/donde-alojar/hoteles/montana-magica)
 
 
 - idea01:
 juegos inspirados en los comportamientos de los animales. Instructores incitana  juegos de rol y prácticas que enseñan e informan sobre la fauna chilena.
 
-- idea02: 
+- idea02:
 ofrecer servicios de video/fotografía, alo largo de todo el recorrido. Con el fin de generar memorias y material de recuerdo. -Vínculo abuelx-nietx-
 
--idea03: 
+- idea03:
 que funciones como un resort, la experiencia se vive a lo largo de varios días. Se abre el mercado de vacaciones.
 
 - idea04:
-gamificar la experiencia. Con una app movil, poder ir completanod retos y consiguiendo recompensas.
-
+gamificar la experiencia. Con una app movil, poder ir completando retos y consiguiendo recompensas.
 Ejemplo, tienes que tomarle foto a todos los animales que coman insectos. Si lo logras antes de irte del parque, ganas descuentos, llaveros, etc.
 
 - idea05:
@@ -76,4 +73,7 @@ vender la carne cruda de los animales para cocinar mmm :p
 - idea07: transformarlo en una experiencia tipo "survival", donde se enseñen tácticas de supervivencia y conservación, específicas para cada espcecie.
 
 - idea08:
-hacer sifusión y muestras en vivo de los procesos que no se ven habitualmente. Por ejemplo, las cirugías, cuidados, adapactación del espacio. -Cursos de cuidador, veterinario, etc. Tipo kidzania-
+hacer difusión y muestras en vivo de los procesos que no se ven habitualmente. Por ejemplo, cirugías, cuidados, adapactación del espacio. -Cursos de cuidador, veterinario, etc. Tipo kidzania-
+
+- idea09:
+hacer una evento de fortnite.
