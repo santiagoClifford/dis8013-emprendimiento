@@ -97,3 +97,11 @@ selecciona un tipo:
 - gasta poco dinero en los primeros intentos
 - validar con usuarios reales
 - documenta bien todo el proceso de testeo
+
+## experiencia con calibra
+
+ya van más de 3 semanas intentando contactar con calibra, sin éxito. La conclusión que sacamos de esto puede oriantarse hacia 2 caminos:
+
+1. calibra le da gran importancia a sus clientes, al punto que son capaces de cancelar otros compromisos para poder estar disponibles para sus clientes
+
+2. calibra tiene nula capacidad de compromiso, y frente a cualquier imprevisto son capaces de cancelar reuniones sin avisar.
