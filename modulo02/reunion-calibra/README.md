@@ -18,5 +18,4 @@ incluir:
 - problematica identificada
 - estructura de costos
 
-
-mandar BMC y pedirle q le eche un ojo. Para conversarlo en la reu. 
+mandar BMC y pedirle q le eche un ojo. Para conversarlo en la reu.
