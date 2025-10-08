@@ -84,3 +84,16 @@ selecciona un tipo:
 
 - si queremos testear comprensión o interés: baja fidelidad
 - si queremos testear uso o experiencia: media o alta fidelidad
+
+### MVP: producto mínmo viable
+
+- suficiente para recibir feedback
+- permite cotizar y manejar costos aproximados
+- **NO es el producto final**
+
+#### consejos para errores comunes
+
+- evitar sobre exigecia del prototipo
+- gasta poco dinero en los primeros intentos
+- validar con usuarios reales
+- documenta bien todo el proceso de testeo
