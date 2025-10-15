@@ -77,3 +77,45 @@ hacer difusión y muestras en vivo de los procesos que no se ven habitualmente. 
 
 - idea09:
 hacer una evento de fortnite.
+
+
+
+### problema 
+
+el problema que habíamos definido es:
+
+La inconsistencia de trabajar con proyectos a corto y mediano plazo, genera la necesidad de trabajar múltiples proyectos a la vez, cuando es posible.
+
+soluciones: 
+
+ideación: 
+
+#### force fit: 
+- Intensidad vacía.
+- Intensidad vacacional
+- inconsistencia productiva
+- estabilidad impredecible
+
+a qué se asocia este útimo concepto?
+- sistema antisísmico
+- alarma/protocolo daisy
+- protocolo metro para personas en las vías
+- frecuencia micros
+
+que podémos rescatar de estos fenómenos?
+- sistema antisísmico: se aplican estrategias fijas. No importa si va a temblar o no, está ahí porsiacaso.
+
+idea: generar protocolo de cómo tratar la sobrecarga. Tener una plantilla fija reducida, y subcontratar en casos de mucha carga laboral.
+
+de qué depende esta demanda estacional?
+- proyectos en el verano.
+- previo a períodos electorales.
+- profe agustina: el 2do semestre se activa más, pq los pruyectos tienen q ver con fondos públicos. entidades publicas. El 2do semestre piensas "se va a acabar el año hay q cerrar el año bien"
+
+- están en el valle de la muerte apun, por mucho tiempo sobrevivieron con n°s rojos, con pretamos. actualmente han logrado estar en pto de equilibrio, aun teninedo esta estacionalidad en las ventas e ingresos. hace aprox 3-4 años q pasa esto. ¿cómo lograr estabilidad en las ventas?
+
+- entendiendo el flujo de ingresos podríamos "equilibrar" los costos.
+
+- este año están gestionando una patente como productora, para ampliar su línea de negocios. quizas tiene  q ver con implementar lo q se diseñó.
+
+- en el pasado hacían una revista comunal, costaba muxa plata.

@@ -189,3 +189,8 @@ estimamos que de ellos, la mayor fuente de ingresos es la investigación social.
 - ¿qué productos tienen un rol más estratégico(y no de plata)?
 
 fortalecimiento del capital social: talleres educativos con comunidades.
+
+```mermaid
+graph LR;
+    A-->B
+```
