@@ -21,6 +21,7 @@ A continuación las definiciones, en orden de cómo se rellena al investigar una
 cada empresa tiene su segmento, y puede tener más de uno.
 
 preguntas que debemos respondernos,
+
 - ¿dirijirnos al público general o segmentar?
 - ¿quiénes son los clientes de la empresa, a quién se dirige?
 - ¿qué segmentos podemos identificar?
@@ -43,13 +44,14 @@ se puede incluir: cómo se viste, qué le gusta, con qué tipo de empresa le gus
 
 ![mapa de empatía 2](./imagenes/mapa-de-empatia2.jpg)
 
-### propuesta de valor:
+### propuesta de valor
 
 aquello que diferencia a la empresa de otras empresas similares. O aquello que agrega valor a la empresa.
 
 objetivo: definir el valor creado para vcada segmento de clientes, describiendo los productos y servicios que se aofrecen a cada uno
 
-preguntas guía: 
+preguntas guía:
+
 - ¿qué valor entrega el emprendimiento a su clientes?
 - ¿qué aporta esta empresa a sus clientes?
 - ¿qué problema de sus clientes está resolviendo?
@@ -155,7 +157,7 @@ con el quien los contrata es una relación funcional, y con la gente, emocional.
 tono profesional, cercano, de confianza.
 
 
-### canales de comunicación y distribución:
+### canales de comunicación y distribución
 
 - ¿a través de qué canales la empresa llega a sus clientes?
 email, linkedin, rrss, boca a boca.
@@ -168,7 +170,7 @@ contización directa desde el sitio web. En la página hay derivaciones a redes 
 - ¿cuáles funciona mejor?
 nose
 
-### flujos de ingreso:
+### flujos de ingreso
 
 - ¿por qué valor los clientes están dispuestos  a pagar hoy?
 la opinión de la gente
@@ -178,6 +180,7 @@ crear espacios de comunicación y gestionar la información rescatada
 por hora
 - ¿cuánto aporta cada fuente de ingreso a los ingresos totales?
 servicios:
+
 1. investigación social
 2. espacios de comunicación, diálogos multiactor y encuentro
 3. diseño e implementación de estrategias de planificación
@@ -186,11 +189,7 @@ servicios:
 - ¿cual es la principal fuente de ingreso?
 
 estimamos que de ellos, la mayor fuente de ingresos es la investigación social. Contrataciones por parte del sector público
+
 - ¿qué productos tienen un rol más estratégico(y no de plata)?
 
 fortalecimiento del capital social: talleres educativos con comunidades.
-
-```mermaid
-graph LR;
-    A-->B
-```
