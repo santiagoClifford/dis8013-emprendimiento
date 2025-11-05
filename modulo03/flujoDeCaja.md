@@ -6,7 +6,7 @@ flujo de caja: herramienta de control que entrega información financiera clave 
 
 el flujo muestra cómo entrs y sale el dinero de la empresa en un período determinado de tiempo.(usualmente 1 año)
 
-### entradas de dinero:
+### entradas de dinero
 
 - ventas
 - préstamos
@@ -24,7 +24,7 @@ el flujo muestra cómo entrs y sale el dinero de la empresa en un período deter
 - costos que se oagan independiente del nivel de producción o ventas
 - asociados a la operación, actividades de inversión y/o financiación
 
-## el flujo de caja 
+## el flujo de caja
 
 usualmente se construye restando el total de las entradas de dinero, con todas las salidas de dinero. Esto da como resultado el flujo de caja final.
 
@@ -57,3 +57,5 @@ proyectar las entradas de eefectivo mensuales: ventas, aportes, créditos, otros
 - incluir entradas de ingreso esperadas.
 - proyectar salidas de efectivo.
 - para la propuesta dada, incluir los nuevos costos que s egenrrarían en la empresa. En términos de costos variables y fijos.
+
+en el fujo se debe justificar cada item que agreguemos.
