@@ -35,3 +35,11 @@ calibra investigar las licitaciones abiertas, y las disponga en una base de dato
 Quizas una suscripción, que te de acceso varios beneficios exclusivos para la comunidad calibra pymes.
 
 o mejor, que tengan a libre acceso esta página de licitaciones, y que te den un acceso directo para pedir ayuda con una licitación directamente.
+
+roles:
+
+- matías: bitácora
+- jota: prototipo
+- stgo: prototipo
+- francisco: testeo
+- jo: testeo
