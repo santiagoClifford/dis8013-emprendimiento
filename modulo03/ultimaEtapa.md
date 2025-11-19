@@ -33,5 +33,70 @@ presentar un escenario ficticio, con un protagonista(une emprendedore), un confl
 
 - métricas: evidenciar cuándo es el pico de demanda y cuándo el valle
 
-3. propuesta
+3. problema y propuesta
 
+3.1 problema
+
+- definición del problema
+- impacto del problema
+
+3.2 propuesta
+
+- el qué y el cómo
+
+3.3 prototipo
+
+- mostrar prototipo, proceso y aprendizajes
+
+3.4 valdación
+
+- datos que validen que hay interés/ que será útil
+- feedback(?)
+
+4. análisis
+
+4.1 viabilidad, factibilidad y deseabilidad
+
+4.2 insisghts(de la validación)
+
+4.3 gran argumento: la propuesta no solo genera ingresos, tbn estabiliza la demanda
+
+5. evaluación financiera
+
+5.1 costos de implementación
+
+- materiales, implementación, tecnología, producción, riesgos.
+
+5.2 costos de la consultoría(plata q nos pagan)
+
+- horas persona, honorarios, gastos operativos, justificación.
+
+5.3 beneficios esperados
+
+- KPI's, ahorro en costos, crecimiento esperado
+
+6. estrategias
+
+6.1 fuentes de financiemiento
+
+6.2 coherencia y payback
+
+- demostrar que lo invertido se ganrá de vuelta
+- "con una inversión de x, el retorno de la inversión se logrará en y meses, basado en ?
+
+7. estrategia de venta y cierre
+
+7.1 enfasis
+
+- recapitulación de datos
+- enfatizar el problema
+
+7.2 anticipación
+
+- responde posibles cosas que se puedan preguntar/cuestionar
+
+7.3 cierre 
+
+- mostrar cómo cambia una gráfica
+- "solo queda 1 cosas por hacer, autorizar la inversión"
+- fin 
